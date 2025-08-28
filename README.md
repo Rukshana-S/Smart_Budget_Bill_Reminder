@@ -1,3 +1,4 @@
+#Smart Budget and Bill Reminder:
 Phase I (Console) – Text-based Budget and Bill Tracking:
 
 In Phase I, the project works as a console-based application where users can manage their personal budget and bills in a simple, text-driven environment.
